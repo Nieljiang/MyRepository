@@ -20,6 +20,7 @@ public String getString(String str)
 	  { 
          getNumber = getNumber.substring(0, getNumber.indexOf(".")+3); 
       } 
-    } 
+    }   
     return getNumber; 
 } 
+ 
